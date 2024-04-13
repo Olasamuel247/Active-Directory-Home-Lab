@@ -17,15 +17,17 @@
 <h2>Languages Used</h2>
 
 - <b>PowerShell:</b>
-<br />
+<b />
+
 Using PowerShell, I added users to my Active Directory domain. With cmdlets like New-ADUser, I created user accounts and customized their attributes to fit the needs of the domain.
-<br />
+
+<b />
 
   <p align="center">
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*2JZFMltwcK5me1xZTFCA3Q.png"/>
 </p>
 
-<h2>To ensure everything worked as intended, I tested user logins to verify seamless access within the domain. This validation process confirmed the successful integration of my Active Directory domain within the virtual environment.</h2>
+<b >To ensure everything worked as intended, I tested user logins to verify seamless access within the domain. This validation process confirmed the successful integration of my Active Directory domain within the virtual environment.<b >
 
 <p align="center">
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*3gDF_bziNx8GwZjxoAz4ZA.png"/>

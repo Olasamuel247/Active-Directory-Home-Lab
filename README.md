@@ -1,9 +1,6 @@
 <h1>Active Directory Home Lab</h1>
 
 
- ### [Click Here for the full breakdown of the project](https://medium.com/@smerene/creating-a-home-lab-using-active-directory-351ac31ab181) (Medium)
-
-
 <h2>Description</h2>
 <b>In my quest to deepen my understanding of IT infrastructure, I set up a home lab environment running Active Directory.
 </b>
